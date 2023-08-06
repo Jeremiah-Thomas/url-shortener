@@ -15,7 +15,7 @@ form.addEventListener('submit', (e) => {
         body: JSON.stringify({originalUrl: longURL})
     }).then(res => res.json()).then(json => {
         newUrl.href = `http://${json}`
-        newUrl.textContent = ${json}
+        newUrl.textContent = json
         newUrl.target="_blank"
         body.appendChild(newUrl)
 
