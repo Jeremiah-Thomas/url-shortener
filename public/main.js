@@ -16,6 +16,7 @@ form.addEventListener('submit', (e) => {
     }).then(res => res.json()).then(json => {
         newUrl.href = json
         newUrl.textContent = json
+        newUrl.target="_blank"
         body.appendChild(newUrl)
 
     })
