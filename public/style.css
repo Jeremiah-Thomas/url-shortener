@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    height: 80vh;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+form input {
+    all: unset;
+    cursor: text;
+    border: solid black 1px;
+    padding: 0.5rem;
+    width: 15rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+form button {
+    all: unset;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: solid dodgerblue 1px;
+    background-color: dodgerblue;
+
+}
+
+form button:hover {
+    filter: brightness(85%);
+    transform: scale(1.1);
+}
+
+.new-url {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    gap: 2rem;
+    border: solid black 1px;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+
+.new-url a {
+    /* border: solid black 1px;
+    padding: 0.5rem;
+    border-radius: 1rem; */
+    color: dodgerblue;
+    text-decoration: none;
+    
+}
+
+
+.new-url img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
