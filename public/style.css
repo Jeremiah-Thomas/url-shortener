@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "Merriweather";
+    src: url('Merriweather-Regular.ttf')
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -5,6 +10,7 @@ body {
     align-items: center;
     gap: 1rem;
     height: 80vh;
+    font-family: 'Merriweather'
 }
 
 form {
