@@ -9,4 +9,4 @@ visit the site here <a href="www.shortme.cloud">ShortMe</a>
 * Node.js
 * Express.js 
 * EJS
-* MongoDB and Mongoose [
+* MongoDB and Mongoose
