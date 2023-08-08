@@ -6,7 +6,7 @@ visit the site here <a href="www.shortme.cloud">ShortMe</a>
 
 ## Technologies used
 
-  Node.js
-  Express.js
-  EJS
-  MongoDB and Mongoose
+  * Node.js
+  * Express.js
+  * EJS
+  * MongoDB and Mongoose
