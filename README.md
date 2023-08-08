@@ -7,6 +7,8 @@ visit the site here <a href="www.shortme.cloud">ShortMe</a>
 ## Technologies used
 ***
 * Node.js
-* Express.js (https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+* Express.js <div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+</div>
 * EJS
 * MongoDB and Mongoose [
