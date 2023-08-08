@@ -1,6 +1,6 @@
 # ShortMe
 
-visit the site here <a href="http://www.shortme.cloud" target="_blank">ShortMe</a>
+visit the site here [ShortMe](http://shortme.cloud)
 
 ## A simple url shortener created using node
 
